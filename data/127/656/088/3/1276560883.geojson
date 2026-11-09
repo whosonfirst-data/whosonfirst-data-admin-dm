@@ -59,7 +59,7 @@
         "wk:page":"Paix_Bouche"
     },
     "wof:country":"DM",
-    "wof:geomhash":"c33c75e5e98832cda8b65ede4cee8e55",
+    "wof:geomhash":"238ff8928b7b8a9bbdc77aa96847b9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,5 +84,5 @@
     -61.41133000000001,
     15.59248
 ],
-  "geometry": {"coordinates":[-61.41133000000001,15.59248],"type":"Point"}
+  "geometry": {"coordinates":[-61.41133,15.59248],"type":"Point"}
 }

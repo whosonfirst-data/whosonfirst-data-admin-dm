@@ -48,7 +48,7 @@
         "wk:page":"Bense"
     },
     "wof:country":"DM",
-    "wof:geomhash":"967fbd4e923b34061915b2522c771702",
+    "wof:geomhash":"a2b7833956ec68c185f8b0c4aee55ab8",
     "wof:hierarchy":[
         {
             "country_id":85632503,
@@ -71,5 +71,5 @@
     -61.37558000000001,
     15.58771
 ],
-  "geometry": {"coordinates":[-61.37558000000001,15.58771],"type":"Point"}
+  "geometry": {"coordinates":[-61.37558,15.58771],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "gn:id":9063950
     },
     "wof:country":"DM",
-    "wof:geomhash":"9e827092f1acb81a968564bcf22293bb",
+    "wof:geomhash":"e6c3879b537f19d16142e4d7584f171c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,5 +64,5 @@
     -61.37269000000001,
     15.30708
 ],
-  "geometry": {"coordinates":[-61.37269000000001,15.30708],"type":"Point"}
+  "geometry": {"coordinates":[-61.37269,15.30708],"type":"Point"}
 }
