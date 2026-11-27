@@ -1,0 +1,72 @@
+{
+  "id": 9895016450,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39375,15.39298,-61.39375,15.39298",
+    "geom:latitude":15.39298,
+    "geom:longitude":-61.39375,
+    "iso:country":"DM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897827: name \"Warner\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897827"
+        },
+        {
+            "citation":"GeoNames populated place 11897827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897827"
+        },
+        {
+            "citation":"GeoNames populated place 11897827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897827"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670527 (Saint Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503,
+        85670527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897827
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"d0216ce2973d5df3108e394024991fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":9895016450,
+            "region_id":85670527
+        }
+    ],
+    "wof:id":9895016450,
+    "wof:lastmodified":1795735193,
+    "wof:name":"Warner",
+    "wof:parent_id":85670527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39375,
+    15.39298,
+    -61.39375,
+    15.39298
+],
+  "geometry": {"coordinates":[-61.39375,15.39298],"type":"Point"}
+}

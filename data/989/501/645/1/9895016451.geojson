@@ -1,0 +1,72 @@
+{
+  "id": 9895016451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45939,15.55281,-61.45939,15.55281",
+    "geom:latitude":15.55281,
+    "geom:longitude":-61.45939,
+    "iso:country":"DM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11897829: name \"Picard\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11897829"
+        },
+        {
+            "citation":"GeoNames populated place 11897829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11897829"
+        },
+        {
+            "citation":"GeoNames populated place 11897829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11897829"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670509 (Saint John), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503,
+        85670509,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11897829
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"aa09d5dd713de5312561d178edcb7956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":9895016451,
+            "region_id":85670509
+        }
+    ],
+    "wof:id":9895016451,
+    "wof:lastmodified":1795735193,
+    "wof:name":"Picard",
+    "wof:parent_id":85670509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45939,
+    15.55281,
+    -61.45939,
+    15.55281
+],
+  "geometry": {"coordinates":[-61.45939,15.55281],"type":"Point"}
+}

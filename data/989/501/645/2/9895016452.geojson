@@ -1,0 +1,72 @@
+{
+  "id": 9895016452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38572,15.37359,-61.38572,15.37359",
+    "geom:latitude":15.37359,
+    "geom:longitude":-61.38572,
+    "iso:country":"DM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12151279: name \"Bon Repos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12151279"
+        },
+        {
+            "citation":"GeoNames populated place 12151279: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12151279"
+        },
+        {
+            "citation":"GeoNames populated place 12151279: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12151279"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670527 (Saint Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503,
+        85670527,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12151279
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"b5cd5d6b2c2fbb7622049bdb3f33727b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":9895016452,
+            "region_id":85670527
+        }
+    ],
+    "wof:id":9895016452,
+    "wof:lastmodified":1795735193,
+    "wof:name":"Bon Repos",
+    "wof:parent_id":85670527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38572,
+    15.37359,
+    -61.38572,
+    15.37359
+],
+  "geometry": {"coordinates":[-61.38572,15.37359],"type":"Point"}
+}

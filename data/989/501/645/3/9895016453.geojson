@@ -1,0 +1,72 @@
+{
+  "id": 9895016453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35756,15.31299,-61.35756,15.31299",
+    "geom:latitude":15.31299,
+    "geom:longitude":-61.35756,
+    "iso:country":"DM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12151286: name \"Copt Hall Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12151286"
+        },
+        {
+            "citation":"GeoNames populated place 12151286: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12151286"
+        },
+        {
+            "citation":"GeoNames populated place 12151286: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12151286"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670503 (Saint George), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503,
+        85670503,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12151286
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"e750790d08cebc89c95d812ac14ad881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":9895016453,
+            "region_id":85670503
+        }
+    ],
+    "wof:id":9895016453,
+    "wof:lastmodified":1795735193,
+    "wof:name":"Copt Hall Estate",
+    "wof:parent_id":85670503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35756,
+    15.31299,
+    -61.35756,
+    15.31299
+],
+  "geometry": {"coordinates":[-61.35756,15.31299],"type":"Point"}
+}
